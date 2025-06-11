@@ -115,7 +115,7 @@ def main():
             pos2 = get_position_by_click()
 
         if pos3 is None:
-            print("ページ番号を入力する場所をダブルクリックしてください")
+            print("ページ番号を入力する場所をクリックしてください")
             pos3 = get_position_by_click()
 
         result_text = process_pages(pos1, pos2, pos3, begin, end)
