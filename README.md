@@ -78,13 +78,3 @@ python textheist.py
 ## 📄 ライセンス
 
 MIT License
-```
-
----
-
-この内容を `README.md` ファイルとして保存しましょうか？
-
-``` powershell
-pip install opencv-python numpy pillow pyautogui pytesseract pynput
-winget install --id tesseract-ocr.tesseract -e
-```
