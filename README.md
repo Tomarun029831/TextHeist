@@ -47,7 +47,7 @@ winget install --id tesseract-ocr.tesseract -e
 ```python
 pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 ```
-
+日本語対応の場合、公式からテザラクトの日本語データをc:program/tessarctocr/tessdate/にお入れ願います。
 ---
 
 ## 🚀 使い方
