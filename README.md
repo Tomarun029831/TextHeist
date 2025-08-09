@@ -4,6 +4,30 @@
 このプロジェクトは、Webページ上のドキュメントから画面キャプチャを行い、OCR（光学文字認識）でテキストを抽出する自動化ツールです。
 
 ---
+## 使用している外部ライブラリとライセンスについて
+
+このプロジェクトでは以下の外部ライブラリを使用しています。  
+各ライブラリのライセンス条件はそれぞれの公式リポジトリをご確認ください。
+
+- OpenCV (Apache License 2.0)  
+  https://opencv.org/license/
+
+- NumPy (BSD License)  
+  https://numpy.org/license.html
+
+- Pillow (HPND License)  
+  https://python-pillow.org/
+
+- pyautogui (BSD License)  
+  https://github.com/asweigart/pyautogui/blob/master/LICENSE
+
+- pytesseract (Apache License 2.0)  
+  https://github.com/madmaze/pytesseract/blob/master/LICENSE
+
+- pynput (Apache License 2.0)  
+  https://github.com/moses-palmer/pynput/blob/master/LICENSE
+
+---
 
 ## ✅ 主な機能
 
